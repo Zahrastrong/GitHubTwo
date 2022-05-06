@@ -20,5 +20,7 @@ public class DemoTwo {
 	
 	public void div( int a , int b) {
 		System.out.println(a/b);
+		
+		// new code ...
 	}
 }
